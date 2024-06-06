@@ -1,0 +1,32 @@
+  
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color: #800080; /* Color morado */
+            color: white;
+            justify-content: space-between;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        header h1 {
+            header 
+            margin: 5px ; 
+            font-size: 2em;
+        }
+        header nav {
+            display: flex;
+            gap: 15px;
+        }
+        header nav a {
+            color: white;
+            text-decoration: none;
+            font-size: 1em;
+        }
+        header nav a:hover {
+            color: orange; /* Color anaranjado */
+        }
+       
